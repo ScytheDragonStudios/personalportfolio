@@ -1,0 +1,16 @@
+img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: solid 2px red;
+
+}
+
+body {
+    background-color: royalblue;
+    color: black;
+}
+
+.underline {
+    text-decoration: underline;
+}
